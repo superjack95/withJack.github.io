@@ -1,14 +1,14 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
+title:             With Jack
+email:             superjack95@gmail.com
+description:       With Jack, 승재랑.
 author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+baseurl:           "/"
+url:               "http://withjack.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  null
+github_username:   withJack
+facebook_username: 이승재(Lee)
 
 # Build settings
 markdown:          kramdown
@@ -17,3 +17,4 @@ paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+
