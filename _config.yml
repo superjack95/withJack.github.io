@@ -8,7 +8,7 @@ url:               "http://withjack.github.io"
 # Social Profiles
 twitter_username:  null
 github_username:   withJack
-facebook_username: 이승재
+facebook_username: profile.php?id=100000132161470
 
 # Build settings
 markdown:          kramdown
