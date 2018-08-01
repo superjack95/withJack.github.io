@@ -1,24 +1,16 @@
-title:             With Jack
+title:             Blog | With Jack
 email:             superjack95@gmail.com
-<<<<<<< HEAD
 description:       Success is not final, Failure is not fatal It is the courage to continue that counts.
 author:            With Jack, 승재랑.
-=======
 description:       Success is not final, Failure is not fatal.     It is the courage to continue that counts.
 author:            Jack
->>>>>>> 4a4bdc493a2daa363a68486675c1603e68aca331
 baseurl:           "/"
 url:               "http://withjack.github.io"
 
 # Social Profiles
 twitter_username:  null
 github_username:   withJack
-<<<<<<< HEAD
-facebook_username: null
-
-=======
 facebook_username: profile.php?id=100000132161470
->>>>>>> 4a4bdc493a2daa363a68486675c1603e68aca331
 
 # Build settings
 markdown:          kramdown
