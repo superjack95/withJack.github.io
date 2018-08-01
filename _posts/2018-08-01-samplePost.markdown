@@ -10,7 +10,7 @@ background: '/img/posts/01.jpg'
 
 ---
 
-This is the first post for **Blog | with Jack**!
+This is the first post for **Blog with Jack**!
 
 is it working?
 
