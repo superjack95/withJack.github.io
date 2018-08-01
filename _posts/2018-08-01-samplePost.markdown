@@ -12,5 +12,7 @@ background: '/img/posts/01.jpg'
 
 This is the first post for _Blog | with Jack_!
 
+is it working?
+
 Checking if md(markdown) file still works.
 
