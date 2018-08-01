@@ -19,7 +19,7 @@ header.masthead {
   .page-heading,
   .post-heading,
   .site-heading {
-    padding: 200px 0 150px;
+    padding: 100px 0 150px;
     color: white;
     @media only screen and (min-width: 768px) {
       padding: 100px 0;
@@ -33,7 +33,7 @@ header.masthead {
       margin-top: 0;
     }
     .subheading {
-      font-size: 24px;
+      font-size: 17px;
       font-weight: 300;
       line-height: 1.1;
       display: block;
@@ -56,7 +56,7 @@ header.masthead {
       display: block;
     }
     .subheading {
-      font-size: 17px;
+      font-size: 24px;
       font-weight: 300;
       margin: 10px 0 30px;
       @include sans-serif-font;
