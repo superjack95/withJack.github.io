@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Sample Algorithm!"
 subtitle: "Checkout the algorithm sample!"
 date:   2018-8-2 07:16:13 -0400
