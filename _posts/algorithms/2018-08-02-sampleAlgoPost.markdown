@@ -13,3 +13,4 @@ background: '/img/posts/02.jpg'
 
 complexity = theta(n^2)
 
+{% include disqus.html %}
