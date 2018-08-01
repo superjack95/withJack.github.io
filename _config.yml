@@ -4,6 +4,7 @@ description:       Success is not final, Failure is not fatal It is the courage 
 author:            Jack
 baseurl:           "/"
 url:               "http://withjack.github.io"
+disqus:            withjack
 
 # Social Profiles
 twitter_username:  null
