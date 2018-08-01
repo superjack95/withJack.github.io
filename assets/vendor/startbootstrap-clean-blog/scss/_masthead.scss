@@ -22,7 +22,7 @@ header.masthead {
     padding: 200px 0 150px;
     color: white;
     @media only screen and (min-width: 1200px) {
-      padding: 120px 0;
+      padding: 150px 0;
     }
   }
   .page-heading,
@@ -48,7 +48,7 @@ header.masthead {
   }
   .post-heading {
     h1 {
-      font-size: 35px;
+      font-size: 50px;
     }
     .meta,
     .subheading {
@@ -56,7 +56,7 @@ header.masthead {
       display: block;
     }
     .subheading {
-      font-size: 24px;
+      font-size: 17px;
       font-weight: 300;
       margin: 10px 0 30px;
       @include sans-serif-font;
@@ -70,9 +70,9 @@ header.masthead {
         color: $white;
       }
     }
-    @media only screen and (min-width: 768px) {
+    @media only screen and (min-width: 1200px) {
       h1 {
-        font-size: 55px;
+        font-size: 80px;
       }
       .subheading {
         font-size: 30px;
