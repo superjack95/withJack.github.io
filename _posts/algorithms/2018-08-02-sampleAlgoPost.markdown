@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Sample Algorithm!"
 subtitle: "Checkout the algorithm sample!"
 date:   2018-8-2 07:16:13 -0400
@@ -12,3 +13,4 @@ background: '/img/posts/02.jpg'
 
 complexity = theta(n^2)
 
+{% include disqus.html %}
