@@ -51,7 +51,7 @@ html header: <script type="text/javascript" src="http://cdn.mathjax.org/mathja
 
 An example of a max-heap (binary tree)
 
-![img](https://github.com/withJack/withjack.github.io/_posts/algorithms/heap) 
+![img](https://github.com/withJack/withjack.github.io/blob/master/_posts/algorithms/heap.jpg) 
 
 
 
@@ -101,13 +101,13 @@ An example of a max-heap (binary tree)
 > ##### Heapsort (pseudo-code)
 >
 > ```
-> Build-max-heap from unordered array							  	  - O(n)
+> Build-max-heap from unordered array                                 - O(n)
 > recursive (n times)
->     find max element A[1]						   				 - O(1)
->     swap elements A[n] with A[1].							      - O(1)
+>     find max element A[1]                                           - O(1)
+>     swap elements A[n] with A[1].                                   - O(1)
 >         (now max element is at the end of array)
 >     discend node n from heap. decrementing heap-size.
->     new root may violate max heap, but children are max-heap.		- O(lg(n))
+>     new root may violate max heap, but children are max-heap.       - O(lg(n))
 > ```
 >
 > Complexity : O(nlg(n))
@@ -117,7 +117,9 @@ An example of a max-heap (binary tree)
 ### Implementation
 
 I have a sample implementation for Heapsort in my [github](https://github.com/withJack/Algorithm-Implementations/blob/master/Heapsort.cpp).
+
 It has some difference between Explanation above and the code.
+
 Please look at the comments in the code for better understanding.      
   
   
