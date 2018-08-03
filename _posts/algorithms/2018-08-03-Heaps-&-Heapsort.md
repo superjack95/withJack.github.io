@@ -134,7 +134,8 @@ Thanks, with Jack.
   
   
 **Reference**  
-[MIT OpenCourseWare. Course: MIT 6.006 Introduction to Algorithms, Fall 2011.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).  
+- [MIT OpenCourseWare. Course: MIT 6.006 Introduction to Algorithms, Fall 2011.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).  
+- Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. Introduction to Algorithms. 3rd ed. MIT Press, 2009.  
   
   
   
