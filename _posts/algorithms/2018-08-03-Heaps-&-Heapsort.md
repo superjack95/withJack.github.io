@@ -50,7 +50,7 @@ background: '/img/posts/02.jpg'
 An example of a max-heap (binary tree)
 
 
-![img](https://github.com/withJack/withjack.github.io/blob/master/_posts/algorithms/heap.jpg) 
+![heap](https://user-images.githubusercontent.com/31638192/43668216-99e4574c-97b6-11e8-9ddb-d25f914e9b50.jpg)
 
 
 
