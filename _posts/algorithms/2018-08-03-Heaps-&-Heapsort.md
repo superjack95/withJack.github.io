@@ -67,7 +67,7 @@ An example of a max-heap (binary tree)
 >
 > ​	Assumption : Trees rooted at `left(i)` and `right(i)` are max heaps.
 >
-> ​	Complexity : $$$ theta $$$( lg(n) ). Hight of the tree is lg(n), 
+> ​	Complexity : theta( lg(n) ). Hight of the tree is lg(n), 
 >
 > `heap_size(A)` : Number of nodes (or indices).
 >
@@ -92,9 +92,9 @@ An example of a max-heap (binary tree)
 >
 > 3. Total amount of work in the for loop (pseudo-code): 
 >
->    $$$ n/4(1c) + n/8(2c) + ... 1(lg(n)c) = c2^k (1/2^0 + 2/2^1 + ... + (k+1)/2^k) $$$ when $$$ n/4 = 2^k $$$
+>    n/4(1c) + n/8(2c) + ... 1(lg(n)c) = c2^k (1/2^0 + 2/2^1 + ... + (k+1)/2^k) when n/4 = 2^k
 >
->    $$$ c(1/2^0 + 2/2^1 + ... + (k+1)/2^k) $$$ is bounded by constant and $$$ 2^k $$$ is O(n). 
+>    c(1/2^0 + 2/2^1 + ... + (k+1)/2^k) is bounded by constant and 2^k is O(n). 
 >
 > -> Complexity : O(n) 
 >
