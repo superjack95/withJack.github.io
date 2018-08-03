@@ -133,8 +133,8 @@ Thanks, with Jack.
   
   
   
-<Reference>
-[MIT OpenCourseWare. Course: MIT 6.006 Introduction to Algorithms, Fall 2011.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
+**Reference**  
+[MIT OpenCourseWare. Course: MIT 6.006 Introduction to Algorithms, Fall 2011.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).  
   
   
   
