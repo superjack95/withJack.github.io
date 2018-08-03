@@ -51,7 +51,7 @@ html header: <script type="text/javascript" src="http://cdn.mathjax.org/mathja
 
 An example of a max-heap (binary tree)
 
-![img](C:\Users\super\Documents\GitHub\withjack.github.io\_posts\algorithms\heap) 
+![](C:\Users\super\Documents\GitHub\withjack.github.io\_posts\algorithms\heap.jpg)
 
 
 
