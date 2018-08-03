@@ -51,7 +51,7 @@ html header: <script type="text/javascript" src="http://cdn.mathjax.org/mathja
 
 An example of a max-heap (binary tree)
 
-![img](C:\Users\super\Documents\GitHub\withjack.github.io\_posts\algorithms\heap) 
+![img](https://github.com/withJack/withjack.github.io/_posts/algorithms/heap) 
 
 
 
@@ -117,21 +117,17 @@ An example of a max-heap (binary tree)
 ### Implementation
 
 I have a sample implementation for Heapsort in my [github](https://github.com/withJack/Algorithm-Implementations/blob/master/Heapsort.cpp).
-
 It has some difference between Explanation above and the code.
-
-Please look at the comments in the code for better understanding.
-
-
-
-
-
-Thanks,
-
-Jack.
-
-
-
-
-
+Please look at the comments in the code for better understanding.      
+  
+  
+  
+  
+  
+Thanks, with Jack.  
+  
+  
+  
+  
+  
 {% include disqus.html %}
