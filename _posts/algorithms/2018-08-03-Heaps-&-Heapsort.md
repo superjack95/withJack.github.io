@@ -7,8 +7,6 @@ date:   2018-8-3 06:10:00 -0400
 background: '/img/posts/02.jpg'
 ---
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
 
 
 ## Heaps & Heapsort
@@ -103,13 +101,13 @@ An example of a max-heap (binary tree)
 > ##### Heapsort (pseudo-code)
 >
 > ```
-> Build-max-heap from unordered array                                 - O(n)
+> Build-max-heap from unordered array                               - O(n)
 > recursive (n times)
->     find max element A[1]                                           - O(1)
->     swap elements A[n] with A[1].                                   - O(1)
+>     find max element A[1]                                         - O(1)
+>     swap elements A[n] with A[1].                                 - O(1)
 >         (now max element is at the end of array)
 >     discend node n from heap. decrementing heap-size.
->     new root may violate max heap, but children are max-heap.       - O(lg(n))
+>     new root may violate max heap, but children are max-heap.     - O(lg(n))
 > ```
 >
 > Complexity : O(nlg(n))
